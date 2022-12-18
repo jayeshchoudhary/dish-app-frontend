@@ -1,1 +1,1 @@
-export const apiUrl = "https://dish-app-backend.onrender.com";
+export const apiUrl = "https://dish-app-frontend.onrender.com";
